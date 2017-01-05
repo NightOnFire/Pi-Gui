@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#import Tkinter as tk
+import Tkinter as tk
 
 class Application(tk.Frame):
         def __init__(self, master=None):
